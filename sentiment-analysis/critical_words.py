@@ -1,0 +1,21 @@
+#Words and their sentiment scores
+new_words = {
+    'gaining momentum': 2.0,
+    'up': 1.5,
+    'surges': 2.5,
+    'listed': 1.0,
+    'introduces': 1.5,
+    'promotes': 1.5,
+    'expands': 1.5,
+    'partners': 1.5,
+    'boost': 2.0,
+    'stalled': -2.0,
+    'constraints': -1.5,
+    'dies': -3.0,
+    'crash': -2.5,
+    'trouble': -2.0,
+    'seeks': 0.0,
+    'continues': 0.0,
+    'orders': 0.0,
+    'Converted into Public Shares' :-4,
+}
