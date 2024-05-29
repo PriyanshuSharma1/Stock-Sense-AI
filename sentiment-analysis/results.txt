@@ -1,0 +1,35 @@
+Variable Name: analyzer
+Type: nltk.sentiment.vader.SentimentIntensityAnalyzer
+Value: <nltk.sentiment.vader.SentimentIntensityAnalyzer object at 0x14b39f090>
+
+Variable Name: file
+Type: _io.TextIOWrapper
+Value: <_io.TextIOWrapper name='../webscraping/mountainenergy.txt' mode='r' encoding='UTF-8'>
+
+Variable Name: headline
+Type: str
+Value: '
+'
+
+Variable Name: headlines
+Type: list
+Value: 'Mountain Energy Nepal Secures Legal Win Against Nepal Electricity Authority
+', "Don't Forget! Last Day to Grab Dividend Proposed by Mountain Energy Limited And National Laghubitta Limited
+', 'Mountain Energy Nepal Calls AGM on Chaitra 13 to Endorse 15.7895% Dividend
+', 'Mountain Energy Nepal Records A Slight 1.63% Decline in Q2 Net Profit; EPS at Rs. 35.58
+', 'Mountain Energy Nepal Proposes 15.7895% Dividend for FY 2079/80; How much in Bonus shares and Cash?
+', 'SEBON to Enforce Stricter Rules for Hydropower Companies: Strengthening Corporate Governance and Share Sale Protocols
+', "DATA COMPILATION: Nepal's Hydropower Lock-In Period
+', 'Country Adds Around 500 Megawatts Power and Exported 425 Megawatts of electricity to India in 2079 BS
+', 'Mountain Energy Nepal Reports Net Profit of Rs 35.55 Crores for Q2; EPS at Rs 36.17 & Net Worth Per Share at Rs 158.76
+', 'Mountain Energy Nepal Distributed 10.526% Cash Dividend Directly to Shareholders Bank Account
+', 'Reminder! Last ...
+
+Variable Name: new_words
+Type: dict
+Value: {'gaining momentum': 2.0, 'up': 1.5, 'surges': 2.5, 'listed': 1.0, 'introduces': 1.5, 'promotes': 1.5, 'expands': 1.5, 'partners': 1.5, 'boost': 2.0, 'stalled': -2.0, 'constraints': -1.5, 'dies': -3.0, 'crash': -2.5, 'trouble': -2.0, 'seeks': 0.0, 'continues': 0.0, 'orders': 0.0, 'Converted into Public Shares': -4}
+
+Variable Name: sentiment
+Type: dict
+Value: {'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}
+
