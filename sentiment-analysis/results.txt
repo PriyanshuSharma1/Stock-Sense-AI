@@ -13,7 +13,7 @@ Value: '
 
 Variable Name: headlines
 Type: list
-Value: 'Mountain Energy Nepal Secures Legal Win Against Nepal Electricity Authority
+Value: ['Mountain Energy Nepal Secures Legal Win Against Nepal Electricity Authority
 ', "Don't Forget! Last Day to Grab Dividend Proposed by Mountain Energy Limited And National Laghubitta Limited
 ', 'Mountain Energy Nepal Calls AGM on Chaitra 13 to Endorse 15.7895% Dividend
 ', 'Mountain Energy Nepal Records A Slight 1.63% Decline in Q2 Net Profit; EPS at Rs. 35.58
